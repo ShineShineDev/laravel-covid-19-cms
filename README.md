@@ -1,8 +1,6 @@
-### Description
+### laravel Covid-19 CMS
 
-
-
-
+<br/><br/>
 
 ### Screenshot photos
 
@@ -13,7 +11,7 @@
 ![image](https://drive.google.com/uc?export=view&id=1wihtGLOBRTCqkPzhYQinJHWM0H5ozVTm)
 
 
-
+<br/><br/>
 ### Video on youtube
 
 - https://youtu.be/ANRTJTcdoIY
@@ -21,7 +19,7 @@
 
 
 
-
+<br/><br/>
 ### Download Repo
 
 ```cmd
@@ -30,7 +28,7 @@ git clone https://github.com/ShineShineDev/laravel-covid-19-cms.git
 
 
 
-
+<br/><br/>
 ### Install Dependencies
 
 ```cmd
@@ -38,11 +36,7 @@ composer i
 ```
 
 
-
-
-
-
-
+<br/><br/>
 ### Create DB Name 
 
 - `Create DB name with mmcovid-19`
@@ -57,26 +51,19 @@ composer i
   ```
 
 
-
-
-
-
-
+<br/><br/>
 ### Migrate
-
 ```cmd
 php artisan migrate
 ```
 
-> Now you can see app in your browser (http://localhost/mmcovid-19/public/)
+> Now you can see app in your browser (http://localhost/laravel-covid-19-cms/public/)
 
 
 
 
 
-
-
-
+<br/><br/>
 
 :warning: `If You have some issue in this app,please contact me`
 
