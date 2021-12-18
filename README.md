@@ -2,6 +2,7 @@
 
 <br/>
 ### Screenshot photos
+
 :warning: `You can see all app screenshot photos in covid-mobile-ui folder or covid-pc-ui folder  `
 :warning: `All photos`​ https://drive.google.com/drive/folders/1P-ghU13gL6QmtT21Di0Dj4RtFcmp2PU0?usp=sharing
 
