@@ -4,30 +4,20 @@
 
 
 
-### App Photo 
+### Screenshot photos
 
 :warning: `You can see all app screenshot photos in covid-mobile-ui folder or covid-pc-ui folder  `
 
 :warning: `All photos`​ https://drive.google.com/drive/folders/1P-ghU13gL6QmtT21Di0Dj4RtFcmp2PU0?usp=sharing
 
 ![image](https://drive.google.com/uc?export=view&id=1wihtGLOBRTCqkPzhYQinJHWM0H5ozVTm)
-<img src="https://drive.google.com/uc?export=view&id=1wihtGLOBRTCqkPzhYQinJHWM0H5ozVTm"/>
 
 
 
-
-
-
-
-### Youtube Video 
+### Video on youtube
 
 - https://youtu.be/ANRTJTcdoIY
 - [![Watch the video](https://img.youtube.com/vi/ANRTJTcdoIY/hqdefault.jpg)](https://youtu.be/ANRTJTcdoIY)
-
-
-
-
-
 
 
 
@@ -37,9 +27,6 @@
 ```cmd
 git clone https://github.com/ShineShineDev/laravel-covid-19-cms.git
 ```
-
-
-
 
 
 
